@@ -39,10 +39,14 @@ body {
   color: #fff;
 }
 .nav-links {
-  list-style: none;
-  display: flex;
-  gap: 25px;
+  position: fixed;
+  top: 65px;
+  right: -100%;
+  width: 200px;
+  height: calc(100vh - 65px);
+  ...
 }
+
 .nav-links li a {
   color: #fff;
   text-decoration: none;
