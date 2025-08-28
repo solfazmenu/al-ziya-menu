@@ -318,3 +318,6 @@ footer {
   }
   .hamburger {display: flex;}
 }
+body {
+  overflow-x: hidden;
+}
