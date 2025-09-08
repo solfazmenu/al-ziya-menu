@@ -63,3 +63,10 @@ slider.addEventListener('mousemove', e => {
   const walk = (x - startX) * 2; // scroll-fast
   slider.scrollLeft = scrollLeft - walk;
 });
+
+// Close menu when clicking a nav link
+document.querySelectorAll('.nav-links a').forEach(link => {
+  link.addEventListener('click', () => {
+    navLinks.classList.remove('show');
+  });
+});
