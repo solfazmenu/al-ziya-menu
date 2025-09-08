@@ -1,18 +1,27 @@
 // ===============================
-// Fade-in on scroll
+// Fade-in on scroll (with fallback)
 // ===============================
-const faders = document.querySelectorAll('.fade-in');
-const appearOptions = { threshold: 0.2 };
+document.addEventListener("DOMContentLoaded", () => {
+  const faders = document.querySelectorAll('.fade-in');
+  const appearOptions = { threshold: 0.2 };
 
-const appearOnScroll = new IntersectionObserver((entries, observer) => {
-  entries.forEach(entry => {
-    if (!entry.isIntersecting) return;
-    entry.target.classList.add('visible');
-    observer.unobserve(entry.target);
-  });
-}, appearOptions);
+  const appearOnScroll = new IntersectionObserver((entries, observer) => {
+    entries.forEach(entry => {
+      if (entry.isIntersecting) {
+        entry.target.classList.add('visible');
+        observer.unobserve(entry.target);
+      }
+    });
+  }, appearOptions);
 
-faders.forEach(fader => appearOnScroll.observe(fader));
+  faders.forEach(fader => appearOnScroll.observe(fader));
+
+  // Fallback: make sure hero shows immediately
+  const hero = document.querySelector('.hero');
+  if (hero) {
+    hero.classList.add('visible');
+  }
+});
 
 
 // ===============================
@@ -44,50 +53,54 @@ filterBtns.forEach(btn => {
 const hamburger = document.getElementById('hamburger');
 const navLinks = document.querySelector('.nav-links');
 
-hamburger.addEventListener('click', () => {
-  navLinks.classList.toggle('show');
-  hamburger.classList.toggle('active'); // optional animation toggle
-});
+if (hamburger) {
+  hamburger.addEventListener('click', () => {
+    navLinks.classList.toggle('show');
+    hamburger.classList.toggle('active');
+  });
+}
 
 
 // ===============================
 // Horizontal scroll for category filter
 // ===============================
 const slider = document.querySelector('.menu-filter');
-let isDown = false;
-let startX;
-let scrollLeft;
+if (slider) {
+  let isDown = false;
+  let startX;
+  let scrollLeft;
 
-// Mouse support
-slider.addEventListener('mousedown', e => {
-  isDown = true;
-  startX = e.pageX - slider.offsetLeft;
-  scrollLeft = slider.scrollLeft;
-});
+  // Mouse support
+  slider.addEventListener('mousedown', e => {
+    isDown = true;
+    startX = e.pageX - slider.offsetLeft;
+    scrollLeft = slider.scrollLeft;
+  });
 
-slider.addEventListener('mouseleave', () => { isDown = false; });
-slider.addEventListener('mouseup', () => { isDown = false; });
+  slider.addEventListener('mouseleave', () => { isDown = false; });
+  slider.addEventListener('mouseup', () => { isDown = false; });
 
-slider.addEventListener('mousemove', e => {
-  if (!isDown) return;
-  e.preventDefault();
-  const x = e.pageX - slider.offsetLeft;
-  const walk = (x - startX) * 2;
-  slider.scrollLeft = scrollLeft - walk;
-});
+  slider.addEventListener('mousemove', e => {
+    if (!isDown) return;
+    e.preventDefault();
+    const x = e.pageX - slider.offsetLeft;
+    const walk = (x - startX) * 2;
+    slider.scrollLeft = scrollLeft - walk;
+  });
 
-// Touch support
-slider.addEventListener('touchstart', e => {
-  isDown = true;
-  startX = e.touches[0].pageX - slider.offsetLeft;
-  scrollLeft = slider.scrollLeft;
-});
+  // Touch support
+  slider.addEventListener('touchstart', e => {
+    isDown = true;
+    startX = e.touches[0].pageX - slider.offsetLeft;
+    scrollLeft = slider.scrollLeft;
+  });
 
-slider.addEventListener('touchend', () => { isDown = false; });
+  slider.addEventListener('touchend', () => { isDown = false; });
 
-slider.addEventListener('touchmove', e => {
-  if (!isDown) return;
-  const x = e.touches[0].pageX - slider.offsetLeft;
-  const walk = (x - startX) * 2;
-  slider.scrollLeft = scrollLeft - walk;
-});
+  slider.addEventListener('touchmove', e => {
+    if (!isDown) return;
+    const x = e.touches[0].pageX - slider.offsetLeft;
+    const walk = (x - startX) * 2;
+    slider.scrollLeft = scrollLeft - walk;
+  });
+}
