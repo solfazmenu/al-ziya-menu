@@ -162,6 +162,11 @@ img {
   box-shadow: 0 6px 15px rgba(0,0,0,0.15);
 }
 
+/* Hidden class for filtering */
+.hidden {
+  display: none !important;
+}
+
 /* Filter */
 .menu-filter {
   display: flex;
@@ -299,6 +304,7 @@ footer {
   cursor: pointer;
   background: none;
   border: none;
+  z-index: 1001; /* Above nav */
 }
 .hamburger span {
   display: block;
@@ -306,6 +312,18 @@ footer {
   height: 3px;
   background-color: #fff;
   border-radius: 2px;
+  transition: all 0.3s ease;
+}
+
+/* Hamburger animation (X) */
+.hamburger.active span:nth-child(1) {
+  transform: rotate(45deg) translate(5px, 5px);
+}
+.hamburger.active span:nth-child(2) {
+  opacity: 0;
+}
+.hamburger.active span:nth-child(3) {
+  transform: rotate(-45deg) translate(6px, -6px);
 }
 
 /* Mobile Menu */
@@ -315,13 +333,13 @@ footer {
     top: 65px;
     right: -100%;
     width: 80%;
-    max-width: 250px;
+    max-width: 280px;
     height: calc(100vh - 65px);
     background: linear-gradient(180deg,#640D5F,#B12C00);
     flex-direction: column;
-    padding-top: 30px;
+    padding-top: 40px;
     transition: right 0.3s ease;
-    z-index: 999;
+    z-index: 1000;
     overflow-y: auto;
   }
 
@@ -330,16 +348,10 @@ footer {
     right: 0;
   }
 
-  /* Prevent background page shifting */
-  body.menu-open {
-    overflow: hidden;  
-    position: fixed;
-    width: 100%;
-  }
-
   .nav-links li {
     margin-bottom: 25px;
     text-align: center;
   }
+
   .hamburger {display: flex;}
 }
