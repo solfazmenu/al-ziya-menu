@@ -322,10 +322,21 @@ footer {
     padding-top: 30px;
     transition: right 0.3s ease;
     z-index: 999;
+    overflow-y: auto;
   }
+
+  /* When menu is open */
   .nav-links.show {
     right: 0;
   }
+
+  /* Prevent background page shifting */
+  body.menu-open {
+    overflow: hidden;  
+    position: fixed;
+    width: 100%;
+  }
+
   .nav-links li {
     margin-bottom: 25px;
     text-align: center;
