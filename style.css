@@ -42,13 +42,22 @@ body {
   list-style: none;
   display: flex;
   gap: 25px;
+.nav-links {
+  position: fixed;
+  top: 65px;
+  right: 0;
+  width: 200px;
+  height: calc(100vh - 65px);
+  background: linear-gradient(180deg,#640D5F,#B12C00);
+  flex-direction: column;
+  padding-top: 30px;
+  transition: transform 0.3s ease;
+  transform: translateX(100%); /* hide off-screen */
+  z-index: 999;
 }
-.nav-links li a {
-  color: #fff;
-  text-decoration: none;
-  font-size: 16px;
-  font-weight: 500;
-  transition: color 0.3s;
+
+.nav-links.show {
+  transform: translateX(0); /* slide in */
 }
 .nav-links li a:hover {
   color: #FFCC00;
@@ -318,3 +327,4 @@ footer {
   }
   .hamburger {display: flex;}
 }
+
