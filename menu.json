@@ -1,0 +1,2522 @@
+{
+  "categories": [
+    {
+      "id": "air-minuman-panas",
+      "name": "AIR MINUMAN PANAS",
+      "items": [
+        {
+          "name": "TEH PANAS",
+          "price": 1.91,
+          "sst": 1.91,
+          "harga": 1.8,
+          "bungkus": 2.41,
+          "image": "images/menu/teh-panas.webp"
+        },
+        {
+          "name": "TEH TARIK PANAS",
+          "price": 1.91,
+          "sst": 1.91,
+          "harga": 1.8,
+          "bungkus": 2.41,
+          "image": "images/menu/teh-tarik-panas.webp"
+        },
+        {
+          "name": "TEH C PANAS",
+          "price": 2.65,
+          "sst": 2.65,
+          "harga": 2.5,
+          "bungkus": 3.15,
+          "image": "images/menu/teh-c-panas.webp"
+        },
+        {
+          "name": "TEH HALIA PANAS",
+          "price": 2.65,
+          "sst": 2.65,
+          "harga": 2.5,
+          "bungkus": 3.15,
+          "image": "images/menu/teh-halia-panas.webp"
+        },
+        {
+          "name": "TEH C HALIA PANAS",
+          "price": 3.18,
+          "sst": 3.18,
+          "harga": 3,
+          "bungkus": 3.68,
+          "image": "images/menu/teh-c-halia-panas.webp"
+        },
+        {
+          "name": "MASALA TEA PANAS",
+          "price": 4.24,
+          "sst": 4.24,
+          "harga": 4,
+          "bungkus": 4.74,
+          "image": "images/menu/masala-tea-panas.webp"
+        },
+        {
+          "name": "TEH O PANAS",
+          "price": 1.59,
+          "sst": 1.59,
+          "harga": 1.5,
+          "bungkus": 2.09,
+          "image": "images/menu/teh-o-panas.webp"
+        },
+        {
+          "name": "TEH O MINT PANAS",
+          "price": 2.65,
+          "sst": 2.65,
+          "harga": 2.5,
+          "bungkus": 3.15,
+          "image": "images/menu/teh-o-mint-panas.webp"
+        },
+        {
+          "name": "TEH O HALIA PANAS",
+          "price": 2.12,
+          "sst": 2.12,
+          "harga": 2,
+          "bungkus": 2.62,
+          "image": "images/menu/teh-o-halia-panas.webp"
+        },
+        {
+          "name": "TEH O LEMON PANAS",
+          "price": 3.18,
+          "sst": 3.18,
+          "harga": 3,
+          "bungkus": 3.68,
+          "image": "images/menu/teh-o-lemon-panas.webp"
+        },
+        {
+          "name": "TEH O LIMAU PANAS",
+          "price": 2.12,
+          "sst": 2.12,
+          "harga": 2,
+          "bungkus": 2.62,
+          "image": "images/menu/teh-o-limau-panas.webp"
+        },
+        {
+          "name": "TEH O LYCHEE PANAS",
+          "price": 4.24,
+          "sst": 4.24,
+          "harga": 4,
+          "bungkus": 4.74,
+          "image": "images/menu/teh-o-lychee-panas.webp"
+        },
+        {
+          "name": "KOPI PANAS",
+          "price": 1.91,
+          "sst": 1.91,
+          "harga": 1.8,
+          "bungkus": 2.41,
+          "image": "images/menu/kopi-panas.webp"
+        },
+        {
+          "name": "KOPI O PANAS",
+          "price": 1.59,
+          "sst": 1.59,
+          "harga": 1.5,
+          "bungkus": 2.09,
+          "image": "images/menu/kopi-o-panas.webp"
+        },
+        {
+          "name": "KOPI C PANAS",
+          "price": 2.65,
+          "sst": 2.65,
+          "harga": 2.5,
+          "bungkus": 3.15,
+          "image": "images/menu/kopi-c-panas.webp"
+        },
+        {
+          "name": "KOPI HALIA PANAS",
+          "price": 2.65,
+          "sst": 2.65,
+          "harga": 2.5,
+          "bungkus": 3.15,
+          "image": "images/menu/kopi-halia-panas.webp"
+        },
+        {
+          "name": "KOPI O HALIA PANAS",
+          "price": 2.12,
+          "sst": 2.12,
+          "harga": 2,
+          "bungkus": 2.62,
+          "image": "images/menu/kopi-o-halia-panas.webp"
+        },
+        {
+          "name": "CHAM PANAS",
+          "price": 2.65,
+          "sst": 2.65,
+          "harga": 2.5,
+          "bungkus": 3.15,
+          "image": "images/menu/cham-panas.webp"
+        },
+        {
+          "name": "CHAM C PANAS",
+          "price": 3.18,
+          "sst": 3.18,
+          "harga": 3,
+          "bungkus": 3.68,
+          "image": "images/menu/cham-c-panas.webp"
+        },
+        {
+          "name": "KOPI JANTAN PANAS",
+          "price": 3.71,
+          "sst": 3.71,
+          "harga": 3.5,
+          "bungkus": 4.21,
+          "image": "images/menu/kopi-jantan-panas.webp"
+        },
+        {
+          "name": "RADIX PANAS",
+          "price": 3.71,
+          "sst": 3.71,
+          "harga": 3.5,
+          "bungkus": 4.21,
+          "image": "images/menu/radix-panas.webp"
+        },
+        {
+          "name": "MAHKOTA DEWA PANAS",
+          "price": 3.71,
+          "sst": 3.71,
+          "harga": 3.5,
+          "bungkus": 4.21,
+          "image": "images/menu/mahkota-dewa-panas.webp"
+        },
+        {
+          "name": "TONGKAT ALI PANAS",
+          "price": 3.71,
+          "sst": 3.71,
+          "harga": 3.5,
+          "bungkus": 4.21,
+          "image": "images/menu/tongkat-ali-panas.webp"
+        },
+        {
+          "name": "BRU COFFEE PANAS",
+          "price": 4.77,
+          "sst": 4.77,
+          "harga": 4.5,
+          "bungkus": 5.27,
+          "image": "images/menu/bru-coffee-panas.webp"
+        },
+        {
+          "name": "CAPPUCCINO PANAS",
+          "price": 3.71,
+          "sst": 3.71,
+          "harga": 3.5,
+          "bungkus": 4.21,
+          "image": "images/menu/cappuccino-panas.webp"
+        },
+        {
+          "name": "ALI CAFE PANAS",
+          "price": 3.71,
+          "sst": 3.71,
+          "harga": 3.5,
+          "bungkus": 4.21,
+          "image": "images/menu/ali-cafe-panas.webp"
+        },
+        {
+          "name": "NESCAFE PANAS",
+          "price": 3.18,
+          "sst": 3.18,
+          "harga": 3,
+          "bungkus": 3.68,
+          "image": "images/menu/nescafe-panas.webp"
+        },
+        {
+          "name": "NESCAFE O PANAS",
+          "price": 2.65,
+          "sst": 2.65,
+          "harga": 2.5,
+          "bungkus": 3.15,
+          "image": "images/menu/nescafe-o-panas.webp"
+        },
+        {
+          "name": "NESCAFE C PANAS",
+          "price": 3.71,
+          "sst": 3.71,
+          "harga": 3.5,
+          "bungkus": 4.21,
+          "image": "images/menu/nescafe-c-panas.webp"
+        },
+        {
+          "name": "NESLO PANAS",
+          "price": 3.71,
+          "sst": 3.71,
+          "harga": 3.5,
+          "bungkus": 4.21,
+          "image": "images/menu/neslo-panas.webp"
+        },
+        {
+          "name": "HALIA O PANAS",
+          "price": 2.12,
+          "sst": 2.12,
+          "harga": 2,
+          "bungkus": 2.62,
+          "image": "images/menu/halia-o-panas.webp"
+        },
+        {
+          "name": "HALIA LEMON PANAS",
+          "price": 3.71,
+          "sst": 3.71,
+          "harga": 3.5,
+          "bungkus": 4.21,
+          "image": "images/menu/halia-lemon-panas.webp"
+        },
+        {
+          "name": "SUSU PANAS",
+          "price": 2.12,
+          "sst": 2.12,
+          "harga": 2,
+          "bungkus": 2.62,
+          "image": "images/menu/susu-panas.webp"
+        },
+        {
+          "name": "SUSU HALIA PANAS",
+          "price": 2.65,
+          "sst": 2.65,
+          "harga": 2.5,
+          "bungkus": 3.15,
+          "image": "images/menu/susu-halia-panas.webp"
+        },
+        {
+          "name": "SUSU KAMBING PANAS",
+          "price": 3.71,
+          "sst": 3.71,
+          "harga": 3.5,
+          "bungkus": 4.21,
+          "image": "images/menu/susu-kambing-panas.webp"
+        },
+        {
+          "name": "MILO PANAS",
+          "price": 3.18,
+          "sst": 3.18,
+          "harga": 3,
+          "bungkus": 3.68,
+          "image": "images/menu/milo-panas.webp"
+        },
+        {
+          "name": "MILO O PANAS",
+          "price": 3.18,
+          "sst": 3.18,
+          "harga": 3,
+          "bungkus": 3.68,
+          "image": "images/menu/milo-o-panas.webp"
+        },
+        {
+          "name": "MILO TABUR PANAS",
+          "price": 4.24,
+          "sst": 4.24,
+          "harga": 4,
+          "bungkus": 4.74,
+          "image": "images/menu/milo-tabur-panas.webp"
+        },
+        {
+          "name": "LIMAU PANAS",
+          "price": 1.91,
+          "sst": 1.91,
+          "harga": 1.8,
+          "bungkus": 2.41,
+          "image": "images/menu/limau-panas.webp"
+        },
+        {
+          "name": "LIMAU ASAM BOI PANAS",
+          "price": 4.24,
+          "sst": 4.24,
+          "harga": 4,
+          "bungkus": 4.74,
+          "image": "images/menu/limau-asam-boi-panas.webp"
+        },
+        {
+          "name": "LEMON PANAS",
+          "price": 2.65,
+          "sst": 2.65,
+          "harga": 2.5,
+          "bungkus": 3.15,
+          "image": "images/menu/lemon-panas.webp"
+        },
+        {
+          "name": "LEMON MINT PANAS",
+          "price": 4.24,
+          "sst": 4.24,
+          "harga": 4,
+          "bungkus": 4.74,
+          "image": "images/menu/lemon-mint-panas.webp"
+        },
+        {
+          "name": "LEMON ASAM BOI PANAS",
+          "price": 4.77,
+          "sst": 4.77,
+          "harga": 4.5,
+          "bungkus": 5.27,
+          "image": "images/menu/lemon-asam-boi-panas.webp"
+        },
+        {
+          "name": "LYCHEE PANAS",
+          "price": 3.71,
+          "sst": 3.71,
+          "harga": 3.5,
+          "bungkus": 4.21,
+          "image": "images/menu/lychee-panas.webp"
+        },
+        {
+          "name": "LYCHEE SUSU PANAS",
+          "price": 4.24,
+          "sst": 4.24,
+          "harga": 4,
+          "bungkus": 4.74,
+          "image": "images/menu/lychee-susu-panas.webp"
+        },
+        {
+          "name": "LONGAN PANAS",
+          "price": 4.24,
+          "sst": 4.24,
+          "harga": 4,
+          "bungkus": 4.74,
+          "image": "images/menu/longan-panas.webp"
+        },
+        {
+          "name": "ASAM BOI PANAS",
+          "price": 3.71,
+          "sst": 3.71,
+          "harga": 3.5,
+          "bungkus": 4.21,
+          "image": "images/menu/asam-boi-panas.webp"
+        },
+        {
+          "name": "HORLICKS PANAS",
+          "price": 3.71,
+          "sst": 3.71,
+          "harga": 3.5,
+          "bungkus": 4.21,
+          "image": "images/menu/horlicks-panas.webp"
+        },
+        {
+          "name": "HORLICKS C PANAS",
+          "price": 4.24,
+          "sst": 4.24,
+          "harga": 4,
+          "bungkus": 4.74,
+          "image": "images/menu/horlicks-c-panas.webp"
+        },
+        {
+          "name": "HORLICKS TABUR PANAS",
+          "price": 6.36,
+          "sst": 6.36,
+          "harga": 6,
+          "bungkus": 6.86,
+          "image": "images/menu/horlicks-tabur-panas.webp"
+        },
+        {
+          "name": "SYRUP PANAS",
+          "price": 1.91,
+          "sst": 1.91,
+          "harga": 1.8,
+          "bungkus": 2.41,
+          "image": "images/menu/syrup-panas.webp"
+        },
+        {
+          "name": "SYRUP BANDUNG PANAS",
+          "price": 3.18,
+          "sst": 3.18,
+          "harga": 3,
+          "bungkus": 3.68,
+          "image": "images/menu/syrup-bandung-panas.webp"
+        },
+        {
+          "name": "SYRUP LEMON PANAS",
+          "price": 4.24,
+          "sst": 4.24,
+          "harga": 4,
+          "bungkus": 4.74,
+          "image": "images/menu/syrup-lemon-panas.webp"
+        },
+        {
+          "name": "SYRUP LIMAU PANAS",
+          "price": 2.65,
+          "sst": 2.65,
+          "harga": 2.5,
+          "bungkus": 3.15,
+          "image": "images/menu/syrup-limau-panas.webp"
+        },
+        {
+          "name": "SYRUP LYCHEE PANAS",
+          "price": 4.77,
+          "sst": 4.77,
+          "harga": 4.5,
+          "bungkus": 5.27,
+          "image": "images/menu/syrup-lychee-panas.webp"
+        },
+        {
+          "name": "SYRUP BANDUNG LYCHEE PANAS",
+          "price": 5.83,
+          "sst": 5.83,
+          "harga": 5.5,
+          "bungkus": 6.33,
+          "image": "images/menu/syrup-bandung-lychee-panas.webp"
+        },
+        {
+          "name": "BARLI PANAS",
+          "price": 2.65,
+          "sst": 2.65,
+          "harga": 2.5,
+          "bungkus": 3.15,
+          "image": "images/menu/barli-panas.webp"
+        },
+        {
+          "name": "BARLI SUSU PANAS",
+          "price": 3.18,
+          "sst": 3.18,
+          "harga": 3,
+          "bungkus": 3.68,
+          "image": "images/menu/barli-susu-panas.webp"
+        },
+        {
+          "name": "BARLI LIMAU PANAS",
+          "price": 3.18,
+          "sst": 3.18,
+          "harga": 3,
+          "bungkus": 3.68,
+          "image": "images/menu/barli-limau-panas.webp"
+        },
+        {
+          "name": "BARLI LEMON PANAS",
+          "price": 4.24,
+          "sst": 4.24,
+          "harga": 4,
+          "bungkus": 4.74,
+          "image": "images/menu/barli-lemon-panas.webp"
+        },
+        {
+          "name": "GREEN TEA MILK PANAS",
+          "price": 4.24,
+          "sst": 4.24,
+          "harga": 4,
+          "bungkus": 4.74,
+          "image": "images/menu/green-tea-milk-panas.webp"
+        },
+        {
+          "name": "APPLE SUSU PANAS",
+          "price": 5.83,
+          "sst": 5.83,
+          "harga": 5.5,
+          "bungkus": 6.33,
+          "image": "images/menu/apple-susu-panas.webp"
+        },
+        {
+          "name": "APPLE ASAM BOI PANAS",
+          "price": 8.48,
+          "sst": 8.48,
+          "harga": 8,
+          "bungkus": 8.98,
+          "image": "images/menu/apple-asam-boi-panas.webp"
+        },
+        {
+          "name": "CARROT SUSU PANAS",
+          "price": 5.83,
+          "sst": 5.83,
+          "harga": 5.5,
+          "bungkus": 6.33,
+          "image": "images/menu/carrot-susu-panas.webp"
+        },
+        {
+          "name": "TEMBIKAI SUSU PANAS",
+          "price": 5.83,
+          "sst": 5.83,
+          "harga": 5.5,
+          "bungkus": 6.33,
+          "image": "images/menu/tembikai-susu-panas.webp"
+        }
+      ]
+    },
+    {
+      "id": "air-minuman-sejuk",
+      "name": "AIR MINUMAN SEJUK",
+      "items": [
+        {
+          "name": "TEH AIS",
+          "price": 2.44,
+          "sst": 2.44,
+          "harga": 2.3,
+          "bungkus": 2.94,
+          "image": "images/menu/teh-ais.webp"
+        },
+        {
+          "name": "TEH TARIK AIS",
+          "price": 2.44,
+          "sst": 2.44,
+          "harga": 2.3,
+          "bungkus": 2.94,
+          "image": "images/menu/teh-tarik-ais.webp"
+        },
+        {
+          "name": "TEH C AIS",
+          "price": 3.18,
+          "sst": 3.18,
+          "harga": 3,
+          "bungkus": 3.68,
+          "image": "images/menu/teh-c-ais.webp"
+        },
+        {
+          "name": "TEH HALIA AIS",
+          "price": 3.18,
+          "sst": 3.18,
+          "harga": 3,
+          "bungkus": 3.68,
+          "image": "images/menu/teh-halia-ais.webp"
+        },
+        {
+          "name": "TEH C HALIA AIS",
+          "price": 3.71,
+          "sst": 3.71,
+          "harga": 3.5,
+          "bungkus": 4.21,
+          "image": "images/menu/teh-c-halia-ais.webp"
+        },
+        {
+          "name": "MASALA TEA AIS",
+          "price": 4.77,
+          "sst": 4.77,
+          "harga": 4.5,
+          "bungkus": 5.27,
+          "image": "images/menu/masala-tea-ais.webp"
+        },
+        {
+          "name": "TEH O AIS",
+          "price": 2.12,
+          "sst": 2.12,
+          "harga": 2,
+          "bungkus": 2.62,
+          "image": "images/menu/teh-o-ais.webp"
+        },
+        {
+          "name": "TEH O MINT AIS",
+          "price": 3.18,
+          "sst": 3.18,
+          "harga": 3,
+          "bungkus": 3.68,
+          "image": "images/menu/teh-o-mint-ais.webp"
+        },
+        {
+          "name": "TEH O HALIA AIS",
+          "price": 2.65,
+          "sst": 2.65,
+          "harga": 2.5,
+          "bungkus": 3.15,
+          "image": "images/menu/teh-o-halia-ais.webp"
+        },
+        {
+          "name": "TEH O LEMON AIS",
+          "price": 3.71,
+          "sst": 3.71,
+          "harga": 3.5,
+          "bungkus": 4.21,
+          "image": "images/menu/teh-o-lemon-ais.webp"
+        },
+        {
+          "name": "TEH O LIMAU AIS",
+          "price": 2.65,
+          "sst": 2.65,
+          "harga": 2.5,
+          "bungkus": 3.15,
+          "image": "images/menu/teh-o-limau-ais.webp"
+        },
+        {
+          "name": "TEH O LYCHEE AIS",
+          "price": 4.77,
+          "sst": 4.77,
+          "harga": 4.5,
+          "bungkus": 5.27,
+          "image": "images/menu/teh-o-lychee-ais.webp"
+        },
+        {
+          "name": "KOPI AIS",
+          "price": 2.44,
+          "sst": 2.44,
+          "harga": 2.3,
+          "bungkus": 2.94,
+          "image": "images/menu/kopi-ais.webp"
+        },
+        {
+          "name": "KOPI O AIS",
+          "price": 2.12,
+          "sst": 2.12,
+          "harga": 2,
+          "bungkus": 2.62,
+          "image": "images/menu/kopi-o-ais.webp"
+        },
+        {
+          "name": "KOPI C AIS",
+          "price": 3.18,
+          "sst": 3.18,
+          "harga": 3,
+          "bungkus": 3.68,
+          "image": "images/menu/kopi-c-ais.webp"
+        },
+        {
+          "name": "KOPI HALIA AIS",
+          "price": 3.18,
+          "sst": 3.18,
+          "harga": 3,
+          "bungkus": 3.68,
+          "image": "images/menu/kopi-halia-ais.webp"
+        },
+        {
+          "name": "KOPI O HALIA AIS",
+          "price": 2.65,
+          "sst": 2.65,
+          "harga": 2.5,
+          "bungkus": 3.15,
+          "image": "images/menu/kopi-o-halia-ais.webp"
+        },
+        {
+          "name": "CHAM AIS",
+          "price": 3.18,
+          "sst": 3.18,
+          "harga": 3,
+          "bungkus": 3.68,
+          "image": "images/menu/cham-ais.webp"
+        },
+        {
+          "name": "CHAM C AIS",
+          "price": 3.71,
+          "sst": 3.71,
+          "harga": 3.5,
+          "bungkus": 4.21,
+          "image": "images/menu/cham-c-ais.webp"
+        },
+        {
+          "name": "KOPI JANTAN AIS",
+          "price": 4.24,
+          "sst": 4.24,
+          "harga": 4,
+          "bungkus": 4.74,
+          "image": "images/menu/kopi-jantan-ais.webp"
+        },
+        {
+          "name": "RADIX AIS",
+          "price": 4.24,
+          "sst": 4.24,
+          "harga": 4,
+          "bungkus": 4.74,
+          "image": "images/menu/radix-ais.webp"
+        },
+        {
+          "name": "MAHKOTA DEWA AIS",
+          "price": 4.24,
+          "sst": 4.24,
+          "harga": 4,
+          "bungkus": 4.74,
+          "image": "images/menu/mahkota-dewa-ais.webp"
+        },
+        {
+          "name": "TONGKAT ALI AIS",
+          "price": 4.24,
+          "sst": 4.24,
+          "harga": 4,
+          "bungkus": 4.74,
+          "image": "images/menu/tongkat-ali-ais.webp"
+        },
+        {
+          "name": "BRU COFFEE AIS",
+          "price": 5.3,
+          "sst": 5.3,
+          "harga": 5,
+          "bungkus": 5.8,
+          "image": "images/menu/bru-coffee-ais.webp"
+        },
+        {
+          "name": "CAPPUCCINO AIS",
+          "price": 4.24,
+          "sst": 4.24,
+          "harga": 4,
+          "bungkus": 4.74,
+          "image": "images/menu/cappuccino-ais.webp"
+        },
+        {
+          "name": "ALI CAFE AIS",
+          "price": 4.24,
+          "sst": 4.24,
+          "harga": 4,
+          "bungkus": 4.74,
+          "image": "images/menu/ali-cafe-ais.webp"
+        },
+        {
+          "name": "NESCAFE AIS",
+          "price": 3.71,
+          "sst": 3.71,
+          "harga": 3.5,
+          "bungkus": 4.21,
+          "image": "images/menu/nescafe-ais.webp"
+        },
+        {
+          "name": "NESCAFE O AIS",
+          "price": 3.18,
+          "sst": 3.18,
+          "harga": 3,
+          "bungkus": 3.68,
+          "image": "images/menu/nescafe-o-ais.webp"
+        },
+        {
+          "name": "NESCAFE C AIS",
+          "price": 4.24,
+          "sst": 4.24,
+          "harga": 4,
+          "bungkus": 4.74,
+          "image": "images/menu/nescafe-c-ais.webp"
+        },
+        {
+          "name": "NESLO AIS",
+          "price": 4.24,
+          "sst": 4.24,
+          "harga": 4,
+          "bungkus": 4.74,
+          "image": "images/menu/neslo-ais.webp"
+        },
+        {
+          "name": "HALIA O AIS",
+          "price": 2.65,
+          "sst": 2.65,
+          "harga": 2.5,
+          "bungkus": 3.15,
+          "image": "images/menu/halia-o-ais.webp"
+        },
+        {
+          "name": "HALIA LEMON AIS",
+          "price": 4.24,
+          "sst": 4.24,
+          "harga": 4,
+          "bungkus": 4.74,
+          "image": "images/menu/halia-lemon-ais.webp"
+        },
+        {
+          "name": "SUSU AIS",
+          "price": 2.65,
+          "sst": 2.65,
+          "harga": 2.5,
+          "bungkus": 3.15,
+          "image": "images/menu/susu-ais.webp"
+        },
+        {
+          "name": "SUSU HALIA AIS",
+          "price": 3.18,
+          "sst": 3.18,
+          "harga": 3,
+          "bungkus": 3.68,
+          "image": "images/menu/susu-halia-ais.webp"
+        },
+        {
+          "name": "SUSU KAMBING AIS",
+          "price": 4.24,
+          "sst": 4.24,
+          "harga": 4,
+          "bungkus": 4.74,
+          "image": "images/menu/susu-kambing-ais.webp"
+        },
+        {
+          "name": "MILO AIS",
+          "price": 3.71,
+          "sst": 3.71,
+          "harga": 3.5,
+          "bungkus": 4.21,
+          "image": "images/menu/milo-ais.webp"
+        },
+        {
+          "name": "MILO O AIS",
+          "price": 3.71,
+          "sst": 3.71,
+          "harga": 3.5,
+          "bungkus": 4.21,
+          "image": "images/menu/milo-o-ais.webp"
+        },
+        {
+          "name": "MILO TABUR AIS",
+          "price": 4.77,
+          "sst": 4.77,
+          "harga": 4.5,
+          "bungkus": 5.27,
+          "image": "images/menu/milo-tabur-ais.webp"
+        },
+        {
+          "name": "LIMAU AIS",
+          "price": 2.44,
+          "sst": 2.44,
+          "harga": 2.3,
+          "bungkus": 2.94,
+          "image": "images/menu/limau-ais.webp"
+        },
+        {
+          "name": "LIMAU ASAM BOI AIS",
+          "price": 4.77,
+          "sst": 4.77,
+          "harga": 4.5,
+          "bungkus": 5.27,
+          "image": "images/menu/limau-asam-boi-ais.webp"
+        },
+        {
+          "name": "LEMON AIS",
+          "price": 3.18,
+          "sst": 3.18,
+          "harga": 3,
+          "bungkus": 3.68,
+          "image": "images/menu/lemon-ais.webp"
+        },
+        {
+          "name": "LEMON MINT AIS",
+          "price": 4.77,
+          "sst": 4.77,
+          "harga": 4.5,
+          "bungkus": 5.27,
+          "image": "images/menu/lemon-mint-ais.webp"
+        },
+        {
+          "name": "LEMON ASAM BOI AIS",
+          "price": 5.3,
+          "sst": 5.3,
+          "harga": 5,
+          "bungkus": 5.8,
+          "image": "images/menu/lemon-asam-boi-ais.webp"
+        },
+        {
+          "name": "LYCHEE AIS",
+          "price": 4.24,
+          "sst": 4.24,
+          "harga": 4,
+          "bungkus": 4.74,
+          "image": "images/menu/lychee-ais.webp"
+        },
+        {
+          "name": "LYCHEE SUSU AIS",
+          "price": 4.77,
+          "sst": 4.77,
+          "harga": 4.5,
+          "bungkus": 5.27,
+          "image": "images/menu/lychee-susu-ais.webp"
+        },
+        {
+          "name": "LONGAN AIS",
+          "price": 4.77,
+          "sst": 4.77,
+          "harga": 4.5,
+          "bungkus": 5.27,
+          "image": "images/menu/longan-ice-ais.webp"
+        },
+        {
+          "name": "ASAM BOI AIS",
+          "price": 4.24,
+          "sst": 4.24,
+          "harga": 4,
+          "bungkus": 4.74,
+          "image": "images/menu/asam-boi-ais.webp"
+        },
+        {
+          "name": "HORLICKS AIS",
+          "price": 4.24,
+          "sst": 4.24,
+          "harga": 4,
+          "bungkus": 4.74,
+          "image": "images/menu/horlicks-ais.webp"
+        },
+        {
+          "name": "HORLICKS C AIS",
+          "price": 4.77,
+          "sst": 4.77,
+          "harga": 4.5,
+          "bungkus": 5.27,
+          "image": "images/menu/horlicks-c-ais.webp"
+        },
+        {
+          "name": "HORLICKS TABUR AIS",
+          "price": 6.89,
+          "sst": 6.89,
+          "harga": 6.5,
+          "bungkus": 7.39,
+          "image": "images/menu/horlicks-tabur-ais.webp"
+        },
+        {
+          "name": "SYRUP AIS",
+          "price": 2.44,
+          "sst": 2.44,
+          "harga": 2.3,
+          "bungkus": 2.94,
+          "image": "images/menu/syrup-ais.webp"
+        },
+        {
+          "name": "SYRUP BANDUNG AIS",
+          "price": 3.71,
+          "sst": 3.71,
+          "harga": 3.5,
+          "bungkus": 4.21,
+          "image": "images/menu/syrup-bandung-ais.webp"
+        },
+        {
+          "name": "SYRUP LEMON AIS",
+          "price": 4.77,
+          "sst": 4.77,
+          "harga": 4.5,
+          "bungkus": 5.27,
+          "image": "images/menu/syrup-lemon-ais.webp"
+        },
+        {
+          "name": "SYRUP LIMAU AIS",
+          "price": 3.18,
+          "sst": 3.18,
+          "harga": 3,
+          "bungkus": 3.68,
+          "image": "images/menu/syrup-limau-ais.webp"
+        },
+        {
+          "name": "SYRUP LYCHEE AIS",
+          "price": 5.3,
+          "sst": 5.3,
+          "harga": 5,
+          "bungkus": 5.8,
+          "image": "images/menu/syrup-lychee-ais.webp"
+        },
+        {
+          "name": "SYRUP BANDUNG LYCHEE AIS",
+          "price": 6.36,
+          "sst": 6.36,
+          "harga": 6,
+          "bungkus": 6.86,
+          "image": "images/menu/syrup-bandung-lychee-ais.webp"
+        },
+        {
+          "name": "BARLI AIS",
+          "price": 3.18,
+          "sst": 3.18,
+          "harga": 3,
+          "bungkus": 3.68,
+          "image": "images/menu/barli-ais.webp"
+        },
+        {
+          "name": "BARLI SUSU AIS",
+          "price": 3.71,
+          "sst": 3.71,
+          "harga": 3.5,
+          "bungkus": 4.21,
+          "image": "images/menu/barli-susu-ais.webp"
+        },
+        {
+          "name": "BARLI LIMAU AIS",
+          "price": 3.71,
+          "sst": 3.71,
+          "harga": 3.5,
+          "bungkus": 4.21,
+          "image": "images/menu/barli-limau-ais.webp"
+        },
+        {
+          "name": "BARLI LEMON AIS",
+          "price": 4.77,
+          "sst": 4.77,
+          "harga": 4.5,
+          "bungkus": 5.27,
+          "image": "images/menu/barli-lemon-ais.webp"
+        },
+        {
+          "name": "GREEN TEA MILK AIS",
+          "price": 4.77,
+          "sst": 4.77,
+          "harga": 4.5,
+          "bungkus": 5.27,
+          "image": "images/menu/green-tea-milk-ais.webp"
+        },
+        {
+          "name": "3 LAYER AIS",
+          "price": 5.3,
+          "sst": 5.3,
+          "harga": 5,
+          "bungkus": 5.8,
+          "image": "images/menu/3-layer-ais.webp"
+        },
+        {
+          "name": "EXTRA JOSS ANGGUR AIS",
+          "price": 3.71,
+          "sst": 3.71,
+          "harga": 3.5,
+          "bungkus": 4.21,
+          "image": "images/menu/extra-joss-anggur-ais.webp"
+        },
+        {
+          "name": "EXTRA JOSS MANGGA AIS",
+          "price": 3.71,
+          "sst": 3.71,
+          "harga": 3.5,
+          "bungkus": 4.21,
+          "image": "images/menu/extra-joss-mangga-ais.webp"
+        },
+        {
+          "name": "EXTRA JOSS OREN AIS",
+          "price": 3.71,
+          "sst": 3.71,
+          "harga": 3.5,
+          "bungkus": 4.21,
+          "image": "images/menu/extra-joss-oren-ais.webp"
+        },
+        {
+          "name": "EXTRA JOSS ACTIVE AIS",
+          "price": 3.71,
+          "sst": 3.71,
+          "harga": 3.5,
+          "bungkus": 4.21,
+          "image": "images/menu/extra-joss-active-ais.webp"
+        },
+        {
+          "name": "SUNQUICK AIS",
+          "price": 3.71,
+          "sst": 3.71,
+          "harga": 3.5,
+          "bungkus": 4.21,
+          "image": "images/menu/sunquick-ais.webp"
+        },
+        {
+          "name": "APPLE SUSU AIS",
+          "price": 6.36,
+          "sst": 6.36,
+          "harga": 6,
+          "bungkus": 6.86,
+          "image": "images/menu/apple-susu-ais.webp"
+        },
+        {
+          "name": "APPLE ASAM BOI AIS",
+          "price": 9.01,
+          "sst": 9.01,
+          "harga": 8.5,
+          "bungkus": 9.51,
+          "image": "images/menu/apple-asam-boi-ais.webp"
+        },
+        {
+          "name": "CARROT SUSU AIS",
+          "price": 6.36,
+          "sst": 6.36,
+          "harga": 6,
+          "bungkus": 6.86,
+          "image": "images/menu/carrot-susu-ais.webp"
+        },
+        {
+          "name": "TEMBIKAI SUSU AIS",
+          "price": 6.36,
+          "sst": 6.36,
+          "harga": 6,
+          "bungkus": 6.86,
+          "image": "images/menu/tembikai-susu-ais.webp"
+        }
+      ]
+    },
+    {
+      "id": "juice",
+      "name": "JUICE",
+      "items": [
+        {
+          "name": "APPLE JUS PANAS",
+          "price": 5.3,
+          "sst": 5.3,
+          "harga": 5,
+          "bungkus": 5.8,
+          "image": "images/menu/apple-jus-panas.webp"
+        },
+        {
+          "name": "APPLE JUS AIS",
+          "price": 5.83,
+          "sst": 5.83,
+          "harga": 5.5,
+          "bungkus": 6.33,
+          "image": "images/menu/apple-jus-ais.webp"
+        },
+        {
+          "name": "CARROT PANAS",
+          "price": 5.3,
+          "sst": 5.3,
+          "harga": 5,
+          "bungkus": 5.8,
+          "image": "images/menu/carrot-panas.webp"
+        },
+        {
+          "name": "CARROT AIS",
+          "price": 5.83,
+          "sst": 5.83,
+          "harga": 5.5,
+          "bungkus": 6.33,
+          "image": "images/menu/carrot-ais.webp"
+        },
+        {
+          "name": "OREN JUICE PANAS",
+          "price": 5.3,
+          "sst": 5.3,
+          "harga": 5,
+          "bungkus": 5.8,
+          "image": "images/menu/oren-juice-panas.webp"
+        },
+        {
+          "name": "OREN JUICE AIS",
+          "price": 5.83,
+          "sst": 5.83,
+          "harga": 5.5,
+          "bungkus": 6.33,
+          "image": "images/menu/oren-juice-ais.webp"
+        },
+        {
+          "name": "NANAS JUICE PANAS",
+          "price": 5.3,
+          "sst": 5.3,
+          "harga": 5,
+          "bungkus": 5.8,
+          "image": "images/menu/nanas-juice-panas.webp"
+        },
+        {
+          "name": "NANAS JUICE AIS",
+          "price": 5.83,
+          "sst": 5.83,
+          "harga": 5.5,
+          "bungkus": 6.33,
+          "image": "images/menu/nanas-juice-ais.webp"
+        },
+        {
+          "name": "TEMBIKAI GULA PANAS",
+          "price": 5.3,
+          "sst": 5.3,
+          "harga": 5,
+          "bungkus": 5.8,
+          "image": "images/menu/tembikai-gula-panas.webp"
+        },
+        {
+          "name": "TEMBIKAI GULA AIS",
+          "price": 5.83,
+          "sst": 5.83,
+          "harga": 5.5,
+          "bungkus": 6.33,
+          "image": "images/menu/tembikai-gula-ais.webp"
+        },
+        {
+          "name": "TEMBIKAI LYCHEE PANAS",
+          "price": 8.48,
+          "sst": 8.48,
+          "harga": 8,
+          "bungkus": 8.98,
+          "image": "images/menu/tembikai-lychee-panas.webp"
+        },
+        {
+          "name": "TEMBIKAI LYCHEE AIS",
+          "price": 9.01,
+          "sst": 9.01,
+          "harga": 8.5,
+          "bungkus": 9.51,
+          "image": "images/menu/tembikai-lychee-ais.webp"
+        },
+        {
+          "name": "NANAS LYCHEE PANAS",
+          "price": 8.48,
+          "sst": 8.48,
+          "harga": 8,
+          "bungkus": 8.98,
+          "image": "images/menu/nanas-lychee-panas.webp"
+        },
+        {
+          "name": "NANAS LYCHEE AIS",
+          "price": 9.01,
+          "sst": 9.01,
+          "harga": 8.5,
+          "bungkus": 9.51,
+          "image": "images/menu/nanas-lychee-ais.webp"
+        },
+        {
+          "name": "DOUBLE JUICE PANAS",
+          "price": 7.42,
+          "sst": 7.42,
+          "harga": 7,
+          "bungkus": 7.92,
+          "image": "images/menu/double-juice-panas.webp"
+        },
+        {
+          "name": "DOUBLE JUICE AIS",
+          "price": 7.95,
+          "sst": 7.95,
+          "harga": 7.5,
+          "bungkus": 8.45,
+          "image": "images/menu/double-juice-ais.webp"
+        }
+      ]
+    },
+    {
+      "id": "idali",
+      "name": "IDLI",
+      "items": [
+        {
+          "name": "IDLI 1 PCS",
+          "price": 1.59,
+          "sst": 1.59,
+          "harga": 1.5,
+          "image": "images/menu/idali-1-pcs.webp"
+        }
+      ]
+    },
+    {
+      "id": "capati",
+      "name": "CAPATI",
+      "items": [
+        {
+          "name": "CAPATI",
+          "price": 3.18,
+          "sst": 3.18,
+          "harga": 3,
+          "image": "images/menu/capati.webp"
+        },
+        {
+          "name": "CAPATI SARDIN",
+          "price": 5.83,
+          "sst": 5.83,
+          "harga": 5.5
+        },
+        {
+          "name": "CAPATI TAMBAL",
+          "price": 5.3,
+          "sst": 5.3,
+          "harga": 5,
+          "image": "images/menu/capati-tambal.webp"
+        }
+      ]
+    },
+    {
+      "id": "tosai",
+      "name": "TOSAI",
+      "items": [
+        {
+          "name": "TOSAI",
+          "price": 2.65,
+          "sst": 2.65,
+          "harga": 2.5,
+          "image": "images/menu/tosai.webp"
+        },
+        {
+          "name": "TOSAI BAWANG",
+          "price": 3.71,
+          "sst": 3.71,
+          "harga": 3.5,
+          "image": "images/menu/tosai-bawang.webp"
+        },
+        {
+          "name": "TOSAI TELUR",
+          "price": 4.77,
+          "sst": 4.77,
+          "harga": 4.5,
+          "image": "images/menu/tosai-telur.webp"
+        },
+        {
+          "name": "TOSAI BAWANG TELUR",
+          "price": 5.3,
+          "sst": 5.3,
+          "harga": 5,
+          "image": "images/menu/tosai-bawang-telur.webp"
+        },
+        {
+          "name": "TOSAI MASALA",
+          "price": 5.3,
+          "sst": 5.3,
+          "harga": 5,
+          "image": "images/menu/tosai-masala.webp"
+        },
+        {
+          "name": "TOSAI GHEE",
+          "price": 6.36,
+          "sst": 6.36,
+          "harga": 6,
+          "image": "images/menu/tosai-ghee.webp"
+        },
+        {
+          "name": "TOSAI PLANTA",
+          "price": 5.3,
+          "sst": 5.3,
+          "harga": 5,
+          "image": "images/menu/tosai-planta.webp"
+        },
+        {
+          "name": "TOSAI CHEESE",
+          "price": 6.36,
+          "sst": 6.36,
+          "harga": 6,
+          "image": "images/menu/tosai-cheese.webp"
+        },
+        {
+          "name": "TOSAI JANTAN",
+          "price": 6.36,
+          "sst": 6.36,
+          "harga": 6,
+          "image": "images/menu/tosai-jantan.webp"
+        },
+        {
+          "name": "TOSAI SARDIN",
+          "price": 6.36,
+          "sst": 6.36,
+          "harga": 6
+        }
+      ]
+    },
+    {
+      "id": "pani-puri",
+      "name": "PANI PURI",
+      "items": [
+        {
+          "name": "PANI PURI 10 PCS",
+          "price": 10.6,
+          "sst": 10.6,
+          "harga": 10,
+          "image": "images/menu/pani-puri-10-pcs.webp"
+        },
+        {
+          "name": "PANI PURI 5 PCS",
+          "price": 5.3,
+          "sst": 5.3,
+          "harga": 5,
+          "image": "images/menu/pani-puri-5-pcs.webp"
+        }
+      ]
+    },
+    {
+      "id": "puri-masala",
+      "name": "PURI MASALA",
+      "items": [
+        {
+          "name": "PURI MASALA",
+          "price": 6.36,
+          "sst": 6.36,
+          "harga": 6,
+          "image": "images/menu/puri-masala.webp"
+        }
+      ]
+    },
+    {
+      "id": "rojak",
+      "name": "ROJAK",
+      "items": [
+        {
+          "name": "ROJAK BIASA",
+          "price": 6.36,
+          "sst": 6.36,
+          "harga": 6,
+          "image": "images/menu/rojak-biasa.webp"
+        },
+        {
+          "name": "ROJAK MEE",
+          "price": 6.89,
+          "sst": 6.89,
+          "harga": 6.5,
+          "image": "images/menu/rojak-mee.webp"
+        },
+        {
+          "name": "ROJAK AYAM",
+          "price": 10.6,
+          "sst": 10.6,
+          "harga": 10,
+          "image": "images/menu/rojak-ayam.webp"
+        },
+        {
+          "name": "ROJAK MEE AYAM",
+          "price": 11.13,
+          "sst": 11.13,
+          "harga": 10.5,
+          "image": "images/menu/rojak-mee-ayam.webp"
+        }
+      ]
+    },
+    {
+      "id": "roti",
+      "name": "ROTI",
+      "items": [
+        {
+          "name": "ROTI KOSONG",
+          "price": 1.59,
+          "sst": 1.59,
+          "harga": 1.5,
+          "image": "images/menu/roti-kosong.webp"
+        },
+        {
+          "name": "ROTI TELUR",
+          "price": 2.65,
+          "sst": 2.65,
+          "harga": 2.5,
+          "image": "images/menu/roti-telur.webp"
+        },
+        {
+          "name": "ROTI SARDIN",
+          "price": 5.83,
+          "sst": 5.83,
+          "harga": 5.5,
+          "image": "images/menu/roti-sardin.webp"
+        },
+        {
+          "name": "ROTI BOOM",
+          "price": 3.18,
+          "sst": 3.18,
+          "harga": 3,
+          "image": "images/menu/roti-boom.webp"
+        },
+        {
+          "name": "ROTI PLANTA",
+          "price": 3.18,
+          "sst": 3.18,
+          "harga": 3,
+          "image": "images/menu/roti-planta.webp"
+        },
+        {
+          "name": "ROTI CHEESE",
+          "price": 5.3,
+          "sst": 5.3,
+          "harga": 5,
+          "image": "images/menu/roti-cheese.webp"
+        },
+        {
+          "name": "ROTI MILO",
+          "price": 5.3,
+          "sst": 5.3,
+          "harga": 5,
+          "image": "images/menu/roti-milo.webp"
+        },
+        {
+          "name": "ROTI JANTAN",
+          "price": 4.77,
+          "sst": 4.77,
+          "harga": 4.5
+        },
+        {
+          "name": "ROTI SUSU",
+          "price": 3.18,
+          "sst": 3.18,
+          "harga": 3
+        },
+        {
+          "name": "ROTI BAWANG",
+          "price": 2.65,
+          "sst": 2.65,
+          "harga": 2.5
+        },
+        {
+          "name": "ROTI TELUR BAWANG",
+          "price": 3.71,
+          "sst": 3.71,
+          "harga": 3.5
+        },
+        {
+          "name": "ROTI TELUR BAWANG CILI",
+          "price": 4.77,
+          "sst": 4.77,
+          "harga": 4.5
+        },
+        {
+          "name": "ROTI TISSU",
+          "price": 5.3,
+          "sst": 5.3,
+          "harga": 5
+        },
+        {
+          "name": "ROTI SARANG BURUNG",
+          "price": 6.36,
+          "sst": 6.36,
+          "harga": 6
+        },
+        {
+          "name": "ROTI TELUR CHEESE",
+          "price": 6.36,
+          "sst": 6.36,
+          "harga": 6
+        },
+        {
+          "name": "ROTI KAYA",
+          "price": 3.18,
+          "sst": 3.18,
+          "harga": 3
+        },
+        {
+          "name": "ROTI PISANG",
+          "price": 4.24,
+          "sst": 4.24,
+          "harga": 4
+        }
+      ]
+    },
+    {
+      "id": "roti-nan",
+      "name": "ROTI NAN",
+      "items": [
+        {
+          "name": "ROTI NAN BIASA",
+          "price": 3.71,
+          "sst": 3.71,
+          "harga": 3.5
+        },
+        {
+          "name": "ROTI NAN BAWANG",
+          "price": 4.24,
+          "sst": 4.24,
+          "harga": 4
+        },
+        {
+          "name": "ROTI NAN MILO",
+          "price": 7.42,
+          "sst": 7.42,
+          "harga": 7
+        },
+        {
+          "name": "ROTI NAN GARLIC",
+          "price": 6.36,
+          "sst": 6.36,
+          "harga": 6
+        },
+        {
+          "name": "ROTI NAN CHEESE GARLIC",
+          "price": 11.66,
+          "sst": 11.66,
+          "harga": 11
+        },
+        {
+          "name": "ROTI NAN AL ZIYA SPECIAL",
+          "price": 12.72,
+          "sst": 12.72,
+          "harga": 12
+        },
+        {
+          "name": "AYAM TANDOORI",
+          "price": 10.6,
+          "sst": 10.6,
+          "harga": 10
+        },
+        {
+          "name": "ROTI NAN CHEESE MOZZARELLA",
+          "price": 9.54,
+          "sst": 9.54,
+          "harga": 9
+        },
+        {
+          "name": "ROTI NAN BUTTER",
+          "price": 6.36,
+          "sst": 6.36,
+          "harga": 6
+        }
+      ]
+    },
+    {
+      "id": "menu-special",
+      "name": "MENU SPECIAL",
+      "items": [
+        {
+          "name": "NASI AYAM PENYET",
+          "price": 11.66,
+          "sst": 11.66,
+          "harga": 11
+        },
+        {
+          "name": "BAKSO",
+          "price": 8.48,
+          "sst": 8.48,
+          "harga": 8
+        },
+        {
+          "name": "BAKSO MEE/BIHUN/MAGGIE",
+          "price": 9.54,
+          "sst": 9.54,
+          "harga": 9
+        },
+        {
+          "name": "SUP GEARBOX",
+          "price": 12.72,
+          "sst": 12.72,
+          "harga": 12
+        },
+        {
+          "name": "SUP AYAM",
+          "price": 9.54,
+          "sst": 9.54,
+          "harga": 9
+        },
+        {
+          "name": "MURTABAK AYAM",
+          "price": 11.66,
+          "sst": 11.66,
+          "harga": 11
+        },
+        {
+          "name": "MURTABAK DAGING",
+          "price": 13.78,
+          "sst": 13.78,
+          "harga": 13
+        },
+        {
+          "name": "MURTABAK KAMBING",
+          "price": 16.96,
+          "sst": 16.96,
+          "harga": 16
+        }
+      ]
+    },
+    {
+      "id": "ayam",
+      "name": "AYAM",
+      "items": [
+        {
+          "name": "AYAM GORENG BEREMPAH 1/4",
+          "price": 10.6,
+          "sst": 10.6,
+          "harga": 10
+        },
+        {
+          "name": "AYAM BAWANG 1/4",
+          "price": 10.6,
+          "sst": 10.6,
+          "harga": 10
+        },
+        {
+          "name": "AYAM PISTOL 1/4",
+          "price": 10.6,
+          "sst": 10.6,
+          "harga": 10
+        },
+        {
+          "name": "AYAM GORENG MAMAK",
+          "price": 5.83,
+          "sst": 5.83,
+          "harga": 5.5
+        }
+      ]
+    },
+    {
+      "id": "telur",
+      "name": "TELUR",
+      "items": [
+        {
+          "name": "TELUR MATA",
+          "price": 1.59,
+          "sst": 1.59,
+          "harga": 1.5
+        },
+        {
+          "name": "TELUR SEPARUH MASAK (1SET)",
+          "price": 3.18,
+          "sst": 3.18,
+          "harga": 3
+        },
+        {
+          "name": "TELUR REBUS",
+          "price": 2.12,
+          "sst": 2.12,
+          "harga": 2
+        },
+        {
+          "name": "TELUR DADAR",
+          "price": 2.65,
+          "sst": 2.65,
+          "harga": 2.5
+        },
+        {
+          "name": "TELUR DADAR BAWANG CILI",
+          "price": 3.71,
+          "sst": 3.71,
+          "harga": 3.5
+        }
+      ]
+    },
+    {
+      "id": "nasi-lemak",
+      "name": "NASI LEMAK",
+      "items": [
+        {
+          "name": "NASI LEMAK KOSONG",
+          "price": 3.18,
+          "sst": 3.18,
+          "harga": 3,
+          "description": "Coconut rice, sambal, peanuts, anchovies and cucumber."
+        },
+        {
+          "name": "NASI LEMAK TELUR",
+          "price": 4.77,
+          "sst": 4.77,
+          "harga": 4.5,
+          "description": "Nasi lemak served with egg."
+        },
+        {
+          "name": "NASI LEMAK AYAM",
+          "price": 9.01,
+          "sst": 9.01,
+          "harga": 8.5,
+          "description": "Nasi lemak with a piece of chicken."
+        },
+        {
+          "name": "NASI LEMAK AYAM TELUR MATA",
+          "price": 11.13,
+          "sst": 11.13,
+          "harga": 10.5,
+          "description": "Nasi lemak with chicken and egg."
+        }
+      ]
+    },
+    {
+      "id": "nasi-biriyani",
+      "name": "NASI BIRIYANI",
+      "items": [
+        {
+          "name": "NASI BIRIYANI KOSONG",
+          "price": 7.42,
+          "sst": 7.42,
+          "harga": 7
+        },
+        {
+          "name": "NASI BIRIYANI AYAM GUM",
+          "price": 12.72,
+          "sst": 12.72,
+          "harga": 12
+        },
+        {
+          "name": "NASI BIRIYANIN DAGING GUM",
+          "price": 15.9,
+          "sst": 15.9,
+          "harga": 15
+        },
+        {
+          "name": "NASI BIRIYANI KAMBING GUM",
+          "price": 18.02,
+          "sst": 18.02,
+          "harga": 17
+        }
+      ]
+    },
+    {
+      "id": "nasi-goreng",
+      "name": "NASI GORENG",
+      "items": [
+        {
+          "name": "NASI GORENG AYAM",
+          "price": 11.13,
+          "sst": 11.13,
+          "harga": 10.5
+        },
+        {
+          "name": "NASI GORENG BIASA",
+          "price": 6.89,
+          "sst": 6.89,
+          "harga": 6.5
+        },
+        {
+          "name": "NASI GORENG KAMPUNG",
+          "price": 7.42,
+          "sst": 7.42,
+          "harga": 7
+        },
+        {
+          "name": "NASI GORENG KAMPUNG + AYAM",
+          "price": 11.66,
+          "sst": 11.66,
+          "harga": 11
+        },
+        {
+          "name": "NASI GORENG CILI PADI",
+          "price": 7.42,
+          "sst": 7.42,
+          "harga": 7
+        },
+        {
+          "name": "NASI GORENG CILI PADI + AYAM",
+          "price": 11.66,
+          "sst": 11.66,
+          "harga": 11
+        },
+        {
+          "name": "NASI GORENG CINA",
+          "price": 7.42,
+          "sst": 7.42,
+          "harga": 7
+        },
+        {
+          "name": "NASI GORENG CINA + AYAM",
+          "price": 11.66,
+          "sst": 11.66,
+          "harga": 11
+        },
+        {
+          "name": "NASI GORENG IKAN MASIN",
+          "price": 9.54,
+          "sst": 9.54,
+          "harga": 9
+        },
+        {
+          "name": "NASI GORENG IKAN MASIN + AYAM",
+          "price": 15.9,
+          "sst": 15.9,
+          "harga": 15
+        },
+        {
+          "name": "NASI GORENG VEGE",
+          "price": 6.36,
+          "sst": 6.36,
+          "harga": 6
+        },
+        {
+          "name": "NASI GORENG AYAM MERAH",
+          "price": 12.72,
+          "sst": 12.72,
+          "harga": 12
+        },
+        {
+          "name": "NASI GORENG DAGING",
+          "price": 14.84,
+          "sst": 14.84,
+          "harga": 14
+        },
+        {
+          "name": "NASI GORENG DAGING MERAH",
+          "price": 15.9,
+          "sst": 15.9,
+          "harga": 15
+        },
+        {
+          "name": "NASI GORENG PAPRIK AYAM",
+          "price": 13.78,
+          "sst": 13.78,
+          "harga": 13
+        },
+        {
+          "name": "NASI GORENG PAPRIK DAGING",
+          "price": 16.96,
+          "sst": 16.96,
+          "harga": 16
+        },
+        {
+          "name": "NASI GORENG PAPRIK SOTONG",
+          "price": 14.84,
+          "sst": 14.84,
+          "harga": 14
+        },
+        {
+          "name": "NASI GORENG PAPRIK UDANG",
+          "price": 14.84,
+          "sst": 14.84,
+          "harga": 14
+        },
+        {
+          "name": "NASI GORENG PATTAYA",
+          "price": 10.6,
+          "sst": 10.6,
+          "harga": 10
+        },
+        {
+          "name": "NASI GORENG SEAFOOD",
+          "price": 14.84,
+          "sst": 14.84,
+          "harga": 14
+        },
+        {
+          "name": "NASI GORENG SOTONG",
+          "price": 13.78,
+          "sst": 13.78,
+          "harga": 13
+        },
+        {
+          "name": "NASI GORENG THAI",
+          "price": 12.72,
+          "sst": 12.72,
+          "harga": 12
+        },
+        {
+          "name": "NASI GORENG USA",
+          "price": 14.84,
+          "sst": 14.84,
+          "harga": 14
+        },
+        {
+          "name": "NASI GORENG UDANG",
+          "price": 13.78,
+          "sst": 13.78,
+          "harga": 13
+        }
+      ]
+    },
+    {
+      "id": "kuey-teow-bihun",
+      "name": "KUEY TEOW / BIHUN",
+      "items": [
+        {
+          "name": "KUEY TEOW / BIHUN GORENG",
+          "price": 6.89,
+          "sst": 6.89,
+          "harga": 6.5
+        },
+        {
+          "name": "KUEY TEOW / BIHUN GORENG AYAM",
+          "price": 11.13,
+          "sst": 11.13,
+          "harga": 10.5
+        },
+        {
+          "name": "KUEY TEOW / BIHUN GORENG CINA",
+          "price": 7.42,
+          "sst": 7.42,
+          "harga": 7
+        },
+        {
+          "name": "KUEY TEOW / BIHUN GORENG CINA AYAM",
+          "price": 11.66,
+          "sst": 11.66,
+          "harga": 11
+        },
+        {
+          "name": "KUEY TEOW / BIHUN GORENG KAMPUNG",
+          "price": 7.42,
+          "sst": 7.42,
+          "harga": 7
+        },
+        {
+          "name": "KUEY TEOW / BIHUN GORENG KAMPUNG AYAM",
+          "price": 11.66,
+          "sst": 11.66,
+          "harga": 11
+        },
+        {
+          "name": "KUEY TEOW / BIHUN GORING UDANG",
+          "price": 13.78,
+          "sst": 13.78,
+          "harga": 13
+        },
+        {
+          "name": "KUEY TEOW / BIHUN GORENG SEAFOOD",
+          "price": 14.84,
+          "sst": 14.84,
+          "harga": 14
+        },
+        {
+          "name": "KUEY TEOW / BIHUN HAILAM",
+          "price": 9.54,
+          "sst": 9.54,
+          "harga": 9
+        },
+        {
+          "name": "KUEY TEOW / BIHUN KUNG FU",
+          "price": 9.54,
+          "sst": 9.54,
+          "harga": 9
+        },
+        {
+          "name": "KUEY TEOW / BIHUN LADNA",
+          "price": 9.54,
+          "sst": 9.54,
+          "harga": 9
+        },
+        {
+          "name": "KUEY TEOW / BIHUN BANDUNG",
+          "price": 10.6,
+          "sst": 10.6,
+          "harga": 10
+        },
+        {
+          "name": "KUEY TEOW / BIHUN SOTONG",
+          "price": 13.78,
+          "sst": 13.78,
+          "harga": 13
+        },
+        {
+          "name": "KUEY TEOW / BIHUN SUP",
+          "price": 8.48,
+          "sst": 8.48,
+          "harga": 8
+        },
+        {
+          "name": "KUEY TEOW / BIHUN SUP DAGING",
+          "price": 16.96,
+          "sst": 16.96,
+          "harga": 16
+        },
+        {
+          "name": "KUEY TEOW / BIHUN GORING IKAN MASIN",
+          "price": 9.54,
+          "sst": 9.54,
+          "harga": 9
+        },
+        {
+          "name": "KUEY TEOW / BIHUN TOMYAM",
+          "price": 9.01,
+          "sst": 9.01,
+          "harga": 8.5
+        },
+        {
+          "name": "KUEY TEOW / BIHUN TOMYAM SEAFOOD",
+          "price": 14.84,
+          "sst": 14.84,
+          "harga": 14
+        },
+        {
+          "name": "KUEY TEOW / BIHUN TOMYAM DAGING",
+          "price": 15.37,
+          "sst": 15.37,
+          "harga": 14.5
+        }
+      ]
+    },
+    {
+      "id": "mee",
+      "name": "MEE",
+      "items": [
+        {
+          "name": "MEE GORENG",
+          "price": 6.89,
+          "sst": 6.89,
+          "harga": 6.5
+        },
+        {
+          "name": "MEE GORENG MAMAK",
+          "price": 6.89,
+          "sst": 6.89,
+          "harga": 6.5
+        },
+        {
+          "name": "MEE GORENG AYAM",
+          "price": 11.13,
+          "sst": 11.13,
+          "harga": 10.5
+        },
+        {
+          "name": "MEE GORENG DAGING",
+          "price": 15.37,
+          "sst": 15.37,
+          "harga": 14.5
+        },
+        {
+          "name": "MEE GORENG KAMBING",
+          "price": 16.96,
+          "sst": 16.96,
+          "harga": 16
+        },
+        {
+          "name": "MEE GORENG SEAFOOD",
+          "price": 14.84,
+          "sst": 14.84,
+          "harga": 14
+        },
+        {
+          "name": "MEE GORENG UDANG",
+          "price": 13.78,
+          "sst": 13.78,
+          "harga": 13
+        },
+        {
+          "name": "MEE GORENG SOTONG",
+          "price": 13.78,
+          "sst": 13.78,
+          "harga": 13
+        },
+        {
+          "name": "MEE HAILAM",
+          "price": 9.54,
+          "sst": 9.54,
+          "harga": 9
+        },
+        {
+          "name": "MEE KUNG FU",
+          "price": 9.54,
+          "sst": 9.54,
+          "harga": 9
+        },
+        {
+          "name": "MEE LADNA",
+          "price": 9.54,
+          "sst": 9.54,
+          "harga": 9
+        },
+        {
+          "name": "MEE SUP",
+          "price": 8.48,
+          "sst": 8.48,
+          "harga": 8
+        },
+        {
+          "name": "MEE SUP DAGING",
+          "price": 16.96,
+          "sst": 16.96,
+          "harga": 16
+        },
+        {
+          "name": "MEE TOMYAM",
+          "price": 11.66,
+          "sst": 11.66,
+          "harga": 11
+        }
+      ]
+    },
+    {
+      "id": "maggie-goreng",
+      "name": "MAGGIE GORENG",
+      "items": [
+        {
+          "name": "MAGGIE GORENG BIASA",
+          "price": 7.42,
+          "sst": 7.42,
+          "harga": 7
+        },
+        {
+          "name": "MAGGIE GORENG AYAM",
+          "price": 11.13,
+          "sst": 11.13,
+          "harga": 10.5
+        },
+        {
+          "name": "MAGGIE GORENG DOUBLE",
+          "price": 10.6,
+          "sst": 10.6,
+          "harga": 10
+        },
+        {
+          "name": "MAGGIE GORENG DOUBLE AYAM",
+          "price": 14.84,
+          "sst": 14.84,
+          "harga": 14
+        },
+        {
+          "name": "MAGGIE GORENG PATTAYA",
+          "price": 9.54,
+          "sst": 9.54,
+          "harga": 9
+        },
+        {
+          "name": "MAGGIE GORENG PATTAYA AYAM",
+          "price": 15.37,
+          "sst": 15.37,
+          "harga": 14.5
+        },
+        {
+          "name": "MAGGIE GORENG PATTAYA DOUBLE",
+          "price": 12.72,
+          "sst": 12.72,
+          "harga": 12
+        },
+        {
+          "name": "MAGGIE GORENG PATTAYA DOUBLE AYAM",
+          "price": 18.55,
+          "sst": 18.55,
+          "harga": 17.5
+        },
+        {
+          "name": "MAGGIE GORENG DAGING",
+          "price": 15.9,
+          "sst": 15.9,
+          "harga": 15
+        },
+        {
+          "name": "MAGGIE GORENG KAMBING",
+          "price": 17.49,
+          "sst": 17.49,
+          "harga": 16.5
+        },
+        {
+          "name": "MAGGIE GORENG KAMPUNG",
+          "price": 7.95,
+          "sst": 7.95,
+          "harga": 7.5
+        },
+        {
+          "name": "MAGGIE GORENG SEAFOOD",
+          "price": 15.37,
+          "sst": 15.37,
+          "harga": 14.5
+        },
+        {
+          "name": "MAGGIE GORENG TOMYAM",
+          "price": 9.54,
+          "sst": 9.54,
+          "harga": 9
+        },
+        {
+          "name": "MAGGIE SUP",
+          "price": 7.42,
+          "sst": 7.42,
+          "harga": 7
+        },
+        {
+          "name": "MAGGIE SUP AYAM",
+          "price": 11.13,
+          "sst": 11.13,
+          "harga": 10.5
+        },
+        {
+          "name": "MAGGIE SUP DOUBLE",
+          "price": 10.6,
+          "sst": 10.6,
+          "harga": 10
+        },
+        {
+          "name": "MAGGIE SUP DOUBLE AYAM",
+          "price": 16.43,
+          "sst": 16.43,
+          "harga": 15.5
+        }
+      ]
+    },
+    {
+      "id": "sup-tomyam",
+      "name": "SUP (TOMYAM)",
+      "items": [
+        {
+          "name": "SUP CAMPUR AYAM & DAGING",
+          "price": 13.78,
+          "sst": 13.78,
+          "harga": 13
+        },
+        {
+          "name": "SUP DAGING",
+          "price": 13.25,
+          "sst": 13.25,
+          "harga": 12.5
+        },
+        {
+          "name": "SUP EKOR",
+          "price": 15.9,
+          "sst": 15.9,
+          "harga": 15
+        },
+        {
+          "name": "SUP TULANG",
+          "price": 15.9,
+          "sst": 15.9,
+          "harga": 15
+        },
+        {
+          "name": "SUP SAYUR",
+          "price": 8.48,
+          "sst": 8.48,
+          "harga": 8
+        },
+        {
+          "name": "TOMYAM SEAFOOD",
+          "price": 13.78,
+          "sst": 13.78,
+          "harga": 13
+        },
+        {
+          "name": "TOMYAM AYAM",
+          "price": 10.6,
+          "sst": 10.6,
+          "harga": 10
+        },
+        {
+          "name": "TOMYAM DAGING",
+          "price": 13.78,
+          "sst": 13.78,
+          "harga": 13
+        },
+        {
+          "name": "TOMYAM SOTONG",
+          "price": 12.72,
+          "sst": 12.72,
+          "harga": 12
+        },
+        {
+          "name": "TOMYAM UDANG",
+          "price": 12.72,
+          "sst": 12.72,
+          "harga": 12
+        },
+        {
+          "name": "TOMYAM CAMPUR",
+          "price": 15.9,
+          "sst": 15.9,
+          "harga": 15
+        }
+      ]
+    },
+    {
+      "id": "ayam-tomyam",
+      "name": "AYAM (TOMYAM)",
+      "items": [
+        {
+          "name": "AYAM PAPRIK SEAFOOD",
+          "price": 13.78,
+          "sst": 13.78,
+          "harga": 13
+        },
+        {
+          "name": "AYAM MASAK BLACK PEPPER",
+          "price": 10.6,
+          "sst": 10.6,
+          "harga": 10
+        },
+        {
+          "name": "AYAM MASAK HALIA",
+          "price": 10.6,
+          "sst": 10.6,
+          "harga": 10
+        },
+        {
+          "name": "AYAM MASAK MERAH",
+          "price": 10.6,
+          "sst": 10.6,
+          "harga": 10
+        },
+        {
+          "name": "AYAM MASAK PAPRIK",
+          "price": 10.6,
+          "sst": 10.6,
+          "harga": 10
+        },
+        {
+          "name": "AYAM MASAK PEDAS",
+          "price": 10.6,
+          "sst": 10.6,
+          "harga": 10
+        },
+        {
+          "name": "AYAM MASAK KICAP",
+          "price": 10.6,
+          "sst": 10.6,
+          "harga": 10
+        },
+        {
+          "name": "AYAM GORENG KUNYIT",
+          "price": 10.6,
+          "sst": 10.6,
+          "harga": 10
+        },
+        {
+          "name": "AYAM 3 RASA",
+          "price": 9.01,
+          "sst": 9.01,
+          "harga": 8.5
+        }
+      ]
+    },
+    {
+      "id": "daging-tomyam",
+      "name": "DAGING (TOMYAM)",
+      "items": [
+        {
+          "name": "DAGING MASAK KUNYIT",
+          "price": 12.72,
+          "sst": 12.72,
+          "harga": 12
+        },
+        {
+          "name": "DAGING MASAK PEPPER",
+          "price": 12.72,
+          "sst": 12.72,
+          "harga": 12
+        },
+        {
+          "name": "DAGING MASAK HALIA",
+          "price": 12.72,
+          "sst": 12.72,
+          "harga": 12
+        },
+        {
+          "name": "DAGING MASAK MERAH",
+          "price": 12.72,
+          "sst": 12.72,
+          "harga": 12
+        },
+        {
+          "name": "DAGING MASAK PAPRIK",
+          "price": 12.72,
+          "sst": 12.72,
+          "harga": 12
+        },
+        {
+          "name": "DAGING MASAK PEDAS",
+          "price": 12.72,
+          "sst": 12.72,
+          "harga": 12
+        },
+        {
+          "name": "DAGING MASAK KICAP",
+          "price": 12.72,
+          "sst": 12.72,
+          "harga": 12
+        },
+        {
+          "name": "DAGING MASAK 3 RASA",
+          "price": 12.72,
+          "sst": 12.72,
+          "harga": 12
+        }
+      ]
+    },
+    {
+      "id": "udang-sotong",
+      "name": "UDANG / SOTONG",
+      "items": [
+        {
+          "name": "MASAK PAPRIK",
+          "price": 10.6,
+          "sst": 10.6,
+          "harga": 10
+        },
+        {
+          "name": "GORENG KUNYIT",
+          "price": 10.6,
+          "sst": 10.6,
+          "harga": 10
+        },
+        {
+          "name": "GORENG TEPUNG",
+          "price": 10.6,
+          "sst": 10.6,
+          "harga": 10
+        },
+        {
+          "name": "MASAK PEDAS",
+          "price": 10.6,
+          "sst": 10.6,
+          "harga": 10
+        },
+        {
+          "name": "MASAK MERAH",
+          "price": 10.6,
+          "sst": 10.6,
+          "harga": 10
+        },
+        {
+          "name": "UDANG MASAK HALIA",
+          "price": 10.6,
+          "sst": 10.6,
+          "harga": 10
+        },
+        {
+          "name": "UDANG MASAK KICAP",
+          "price": 10.6,
+          "sst": 10.6,
+          "harga": 10
+        },
+        {
+          "name": "UDANG GORENG KUNYIT",
+          "price": 10.6,
+          "sst": 10.6,
+          "harga": 10
+        },
+        {
+          "name": "SOTONG GORENG KUNYIT",
+          "price": 10.6,
+          "sst": 10.6,
+          "harga": 10
+        },
+        {
+          "name": "SOTONG MASAK PAPRIK",
+          "price": 10.6,
+          "sst": 10.6,
+          "harga": 10
+        },
+        {
+          "name": "SOTONG GORENG KUNYI",
+          "price": 10.6,
+          "sst": 10.6,
+          "harga": 10
+        },
+        {
+          "name": "SOTONG MASAK KICAP",
+          "price": 10.6,
+          "sst": 10.6,
+          "harga": 10
+        },
+        {
+          "name": "SOTONG MASAK HALIA",
+          "price": 10.6,
+          "sst": 10.6,
+          "harga": 10
+        },
+        {
+          "name": "SOTONG THOPONG",
+          "price": 10.6,
+          "sst": 10.6,
+          "harga": 10
+        }
+      ]
+    }
+  ]
+}
